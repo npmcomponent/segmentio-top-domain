@@ -1,5 +1,5 @@
 
-var url = require('url');
+var url = require('component-url');
 
 // Official Grammar: http://tools.ietf.org/html/rfc883#page-56
 // Look for tlds with up to 2-6 characters.
